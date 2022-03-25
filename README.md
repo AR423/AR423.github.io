@@ -6,3 +6,5 @@
 <img src = "759517.jpg">
 1. Item 1
 2. Item 2
+* Bullet 1
+* Bullet 2
